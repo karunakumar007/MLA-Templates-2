@@ -3,8 +3,10 @@
 :root {
   --iq-title-text: #222428;
   --iq-body-text:#4a525f;
-  --iq-body-header:#FBFCFF;
-  --iq-body-bg: #ffffff;
+  /* --iq-body-header:#FBFCFF; */
+  /* --iq-body-bg: #ffffff; */
+  --iq-body-header:#e4e7e4;
+  --iq-body-bg: #e4e7e4;
   --iq-primary: #ff4545;
   --iq-secondary: #a09e9e;
   --iq-success: #1ee2ac;
@@ -38,7 +40,8 @@
   --iq-dark-hover: #00020f;
   --iq-border-light: #DFDFDF;
   --iq-border-danger: #ff9273;
-  --iq-light-card: #ffffff;
+  /* --iq-light-card: #ffffff; */
+  --iq-light-card: rgb(255 255 255 / 10%);
   --iq-primary-rgb: 100, 114, 248;
   --iq-border-radius:0px 15px;
   --iq-bg-gray:#f8f8fd;
